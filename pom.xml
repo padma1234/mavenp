@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Padmaindu</finalName>
+    <finalName>Padma</finalName>
   </build>
 </project>
