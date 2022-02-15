@@ -1,8 +1,8 @@
 <html>
 <body>
 <h2>               Hello Friends!               </h2>
-<h3> !!!!!!!! WELCOME TO DEVOPS with GCP !!!!!!!!     </h3>
-<h4> @Trainers - SATYA / KIRAN / MUNESH      </h4>
+<h3> !!!!!!!! WELCOME TO DEVOPS  !!!!!!!!     </h3>
+<h4>DEVOPS BATCH3  </h4>
 <marquee behavior="alternate">Devops</marquee>
 <font color="WHITE"><marquee direction="left" style="background:RED">DEVOPS</marquee></font>
 <marquee behavior="scroll" direction="up">
